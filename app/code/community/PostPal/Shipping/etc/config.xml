@@ -74,8 +74,8 @@
                 <name>Express courier</name>
                 <sort_order>1</sort_order>
                 <sallowspecific>0</sallowspecific>
-                <api_url>http://dev.postpal.ee/api/shop/v1</api_url>
-                <track_url>http://dev.postpal.ee/track</track_url>
+                <api_url>https://my.postpal.ee/api/shop/v1</api_url>
+                <track_url>https://my.postpal.ee/track</track_url>
                 <specificerrmsg>This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.</specificerrmsg>
                 <showmethod>1</showmethod>
             </postpal_shipping>
