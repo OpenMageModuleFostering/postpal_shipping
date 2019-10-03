@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/PostPal_Shipping",
+    "name": "OpenMageModuleFostering\/PostPal_Shipping",
     "type": "magento-module",
     "license": "Creative-Commons-Attribution-ShareAlike-4.0-International",
     "homepage": "",
     "description": "PostPal shipping extension",
     "authors": [
-    {
-        "name": "PostPal",
-        "email": "hello@postpal.ee"
-    }
-],
+        {
+            "name": "PostPal",
+            "email": "hello@postpal.ee"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
